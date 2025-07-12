@@ -1,0 +1,17 @@
+# requirements.txt
+api
+pytest
+openai
+pyyaml
+pandas
+Jinja2
+google
+fastapi
+uvicorn
+openpyxl
+requests
+anthropic
+langchain
+firecrawl-py
+python-dotenv
+beautifulsoup4

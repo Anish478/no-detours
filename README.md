@@ -221,6 +221,13 @@ To integrate a new external service:
 2. Update the `config.yaml` file with the new provider
 3. Modify the `context_collector.py` to use the new service
 
+### Contributors
+
+1. Surya Krishna Guttikonda 
+2. Monesh Rallapalli
+3. Anish Sudarshan Gada
+4. Prajwal Manohar
+
 ## License
 
 This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
